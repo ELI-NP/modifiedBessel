@@ -34,6 +34,7 @@ In principle $g(\chi)=P_\mathrm{QED}/P_\mathrm{cl}$. In (Erber 1966; Sokolov and
 $$g(\chi)=\frac{9\sqrt{3}}{8\pi} \int_0^\infty \left[ \frac{2u^2K_{5/3}(u)}{(2+3\chi u)^2} + \frac{36\chi^2u^3K_{2/3}(u)}{(2+3\chi u)^4} \right] du$$
 
 The asymptotic expression is
+
 $$ g(\chi_e\ll 1)\approx1-\frac{55}{16}\sqrt(3)\chi + 48\chi^2 $$
 $$ g(\chi_e\gg 1)\approx\frac{48}{243}\Gamma(\frac{2}{3})\chi^{-4/3} \times \left[ 1 -\frac{81}{16\Gamma(2/3)}(3\chi)^{-2/3} \right] $$
 
