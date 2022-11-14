@@ -1,5 +1,5 @@
 # modifiedBessel
-Generating the modified Bessel functions relevant to strong field QED
+Generating the modified Bessel functions relevant to strong field QED. It set as a framework to build tabulated table for numerical simulation.
 
 # The modified Bessel functions
 ![alt text](modifiedBessel.png)
